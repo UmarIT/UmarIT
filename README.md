@@ -15,6 +15,7 @@ I help startups, businesses, and entrepreneurs bring their mobile app ideas to l
 - 📱 **Custom Mobile App Development** (iOS & Android)
 - 📱 **React Native Mobile App Development**
 - 🔄 **App Redesign / UI Revamp**
+-- 🔄 **Stripe**
 - 🧪 **Bug Fixing & Performance Optimization**
 - 🔗 **API Integration** (REST / GraphQL)
 - 💬 **Consultation & Code Review**
